@@ -1,0 +1,9 @@
+{
+    "projects": [
+        "dependencies/NMockito/src",
+        "dependencies/NMockito/test"
+    ],
+    "sdk": {
+        "version": "1.0.0-rc1-update1"
+    }
+}

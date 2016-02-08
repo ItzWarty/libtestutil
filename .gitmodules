@@ -1,0 +1,4 @@
+[submodule "dependencies/NMockito"]
+	path = dependencies/NMockito
+	url = git@github.com:the-dargon-project/NMockito.git
+	branch = master
