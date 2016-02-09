@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "A. Solution Items", "A. Solution Items", "{286BE744-9133-42F0-BD6E-DCC3FA34F3C1}"
 	ProjectSection(SolutionItems) = preProject
+		build_config.csx = build_config.csx
+		build_entry.csx = build_entry.csx
 		global.json = global.json
 		README.md = README.md
 	EndProjectSection
